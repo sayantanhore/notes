@@ -1,5 +1,15 @@
 // Globals
 
+
+/**
+
+* ----------------------------
+* Holds Browser identity
+* ----------------------------
+*/
+
+var browser;
+
 // Holds the SVG Container
 var g_root;
 

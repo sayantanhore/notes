@@ -1,4 +1,6 @@
 // Defines Event Handlers
+
+
 "use strict";
 
 var Controller = {
